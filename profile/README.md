@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 This is our ENG1 Project group
 
